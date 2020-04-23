@@ -21,6 +21,7 @@ int func(int len) {
 }
 
 int main() {
+    //二分答案
     cin >> n >> m;
     for(int i = 0; i < n; i++) {
         cin >> num[i];
